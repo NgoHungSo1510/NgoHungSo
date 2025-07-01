@@ -19,6 +19,9 @@ Là sinh viên năm cuối ngành Công nghệ thông tin – Đại học Việ
 | **Back‑end**  | Node.js, JavaScript                         |
 | **Database**  | MongoDB, Firebase                           |
 | **Tools**     | Git, GitHub                                 |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter,nodejs,js,mongodb,firebase&perline=4" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -34,13 +37,6 @@ Là sinh viên năm cuối ngành Công nghệ thông tin – Đại học Việ
 - ✉️ **Email**: ngohungso1510@gmail.com  
 - 🌐 **GitHub**: [NGOHUNGSO](https://github.com/NGOHUNGSO)  
 - 📍 **Địa chỉ**: Ngũ Hành Sơn, Đà Nẵng  
-
----
-
-## ⚡ Kỹ năng chuyên môn
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,flutter,nodejs,js,mongodb,firebase&perline=4" alt="Tech Stack" />
-</p>
 
 ---
 
