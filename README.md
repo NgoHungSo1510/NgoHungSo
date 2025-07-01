@@ -19,7 +19,7 @@ Là sinh viên năm cuối ngành Công nghệ thông tin – Đại học Việ
 | **Back‑end**  | Node.js, JavaScript                         |
 | **Database**  | MongoDB, Firebase                           |
 | **Tools**     | Git, GitHub                                 |
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,flutter,nodejs,js,mongodb,firebase&perline=4" alt="Tech Stack" />
 </p>
 
