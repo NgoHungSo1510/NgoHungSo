@@ -39,5 +39,13 @@ Là sinh viên năm cuối ngành Công nghệ thông tin – Đại học Việ
 
 ---
 
+## 📫 Thông tin liên hệ
+- 📞 **Facebook**: [https://www.facebook.com/so.hung.984](https://www.facebook.com/so.hung.984)
+- ✉️ **Email**: ngohungso1510@gmail.com  
+- 🌐 **GitHub**: [NGOHUNGSO](https://github.com/NGOHUNGSO)  Add commentMore actions
+- 📍 **Địa chỉ**: Ngũ Hành Sơn, Đà Nẵng  
+
+---
+
 ### 🎉 Cảm ơn bạn đã ghé thăm!  
 Nếu bạn muốn trao đổi về **cơ hội thực tập**, kỹ thuật web/mobile, hoặc chỉ đơn giản là trò chuyện cùng nhau, rất vui được kết nối!
