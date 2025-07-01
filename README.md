@@ -1,4 +1,4 @@
-# 👋 Xin chào! Gọi tôi là **Ngô Hùng Sở** – Aspiring Full‑Stack Developer
+# 👋 Xin chào! Gọi tôi là **Ngô Hùng Sở** – Full‑Stack Developer
 
 
 ---
